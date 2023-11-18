@@ -14,7 +14,7 @@ Mobile app version: Messanger 421.0.0.12.61, Facebook 427.0.0.31.63
 
 (Simple test with attached w3schools fullscreen css example html. Will send the html/js/css from the example video if it is needed)
 
-1. Host test html file
+1. Host test html file (or https://www.w3schools.com/cssref/tryit.php?filename=trycss_sel_fullscreen)
 2. Send to self or test account
 3. Open link
 4. Click "Open Fullscreen Button"
